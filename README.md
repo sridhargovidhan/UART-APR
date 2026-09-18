@@ -47,8 +47,7 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 
 
 ### Fig 2: Synthesis RTL Schematic:
-<img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/6175f8ca-0ac9-4fa8-9804-fa9f5f07f099" />
-
+<img width="1726" height="911" alt="image" src="https://github.com/user-attachments/assets/9ff2114e-3492-4844-87b5-263864298864" />
 
 ### Fig 3: Area Report:
 <img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/d178cd08-66b9-4d60-98b4-6e660c53e8ce" />
