@@ -50,9 +50,20 @@ v, vi → Sets the maximum limit for I/O port delay to 1ps.
 <img width="1726" height="911" alt="image" src="https://github.com/user-attachments/assets/9ff2114e-3492-4844-87b5-263864298864" />
 
 ### Fig 3: Area Report:
-<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/d178cd08-66b9-4d60-98b4-6e660c53e8ce" />
+<img width="1698" height="926" alt="image" src="https://github.com/user-attachments/assets/b194117d-b593-482e-b888-73e81eb0acc2" />
+### Fig 3: power report :
+<img width="1698" height="926" alt="image" src="https://github.com/user-attachments/assets/fec20387-7ef2-47e7-9318-c2524c96b67e" />
+
 ### Fig 5: Timing Report:
-<img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/f998bdc1-da60-415e-b496-4f833b850b61" />
+<img width="1698" height="926" alt="image" src="https://github.com/user-attachments/assets/74077e81-0e2e-46fa-b1d3-3298812a5d01" />
+
+### Fig 5: UART:
+<img width="1721" height="914" alt="image" src="https://github.com/user-attachments/assets/32052cab-27c7-4ad7-a9ec-2824a85815d1" />
+<img width="1720" height="914" alt="image" src="https://github.com/user-attachments/assets/d989c204-0865-4f85-8839-8edc7d5824a3" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/ba8457d4-62b4-4275-b884-1deb471af73f" />
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/4741d6a6-68b3-4295-ab9d-6fafbf0e9c56" />
+<img width="1600" height="853" alt="image" src="https://github.com/user-attachments/assets/8be0c6d6-a29d-4ff4-8a30-63cd0f79fd0f" />
+
 
 
 ## RESULT:
